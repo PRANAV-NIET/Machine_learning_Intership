@@ -11,8 +11,6 @@ This repository contains all my submissions and projects from the **Machine Lear
 - Dataset: **Iris**
 - Includes model training, testing, and full visualization
 - 📈 Accuracy: ~97%
-- 🔗 [Notebook](./Decision_Trees/Decision_Tree_Iris_Classifier.ipynb)
-- 🖼️ [Tree Visualization](./Decision_Trees/decision_tree_visualization.png)
 
 ### 📝 Task 2: Sentiment Analysis with NLP
 - To be completed: Perform sentiment analysis on customer reviews
@@ -22,7 +20,7 @@ This repository contains all my submissions and projects from the **Machine Lear
 - To be completed: Build a CNN using **TensorFlow** or **PyTorch**
 - Objective: Train a model and evaluate on image dataset
 
-### 🎯 Task 4: Recommendation System
+### 🎯 Task 4: Recommendation System(optional)
 - To be completed: Implement a collaborative filtering or matrix factorization model
 - Deliverable: Functional system with recommendation results
 
