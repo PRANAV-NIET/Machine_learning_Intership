@@ -16,11 +16,7 @@ This repository contains all my submissions and projects from the **Machine Lear
 - To be completed: Perform sentiment analysis on customer reviews
 - Techniques: **TF-IDF Vectorization**, **Logistic Regression**
 
-### 🖼️ Task 3: Image Classification Model
-- To be completed: Build a CNN using **TensorFlow** or **PyTorch**
-- Objective: Train a model and evaluate on image dataset
-
-### 🎯 Task 4: Recommendation System(optional)
+### 🎯 Task 3: Recommendation System
 - To be completed: Implement a collaborative filtering or matrix factorization model
 - Deliverable: Functional system with recommendation results
 
@@ -44,13 +40,10 @@ This repository contains all my submissions and projects from the **Machine Lear
 ├── 📁 Decision_Trees/
 │   ├── Decision_Tree_Iris_Classifier.ipynb
 ├── 📁 Sentiment_Analysis/
-│   └── (To be added)
-├── 📁 Image_Classification/
-│   └── (To be added)
+│   └──Sentiment_Analysis_TFIDF_LogisticRegression_with_Visualization.ipynb
 ├── 📁 Recommendation_System/
-│   └── (To be added)
-└── 📁 Datasets/
-    └── (Optional custom datasets)
+│   └──Recommendation_System_SVD.ipynb
+
 ```
 
 ---
