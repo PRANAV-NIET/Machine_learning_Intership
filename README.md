@@ -10,13 +10,17 @@ This repository contains all my submissions and projects from the **Machine Lear
 - Built and visualized a Decision Tree Classifier using **Scikit-learn**
 - Dataset: **Iris**
 - Includes model training, testing, and full visualization
-- 📈 Accuracy: ~97%
 
 ### 📝 Task 2: Sentiment Analysis with NLP
 - To be completed: Perform sentiment analysis on customer reviews
 - Techniques: **TF-IDF Vectorization**, **Logistic Regression**
 
-### 🎯 Task 3: Recommendation System
+### 🧠 Task 3: Image Classification Model
+- Built a **Convolutional Neural Network (CNN)** for image classification
+- Framework: **TensorFlow**
+- Deliverable: A functional model with performance evaluation on a test dataset
+
+### 🎯 Task 4: Recommendation System(optiopnal)
 - To be completed: Implement a collaborative filtering or matrix factorization model
 - Deliverable: Functional system with recommendation results
 
@@ -34,16 +38,19 @@ This repository contains all my submissions and projects from the **Machine Lear
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
 ```
 📁 Machine Learning Internship/
 ├── 📄 README.md
 ├── 📁 Decision_Trees/
 │   ├── Decision_Tree_Iris_Classifier.ipynb
 ├── 📁 Sentiment_Analysis/
-│   └──Sentiment_Analysis_TFIDF_LogisticRegression_with_Visualization.ipynb
+│   └── Sentiment_Analysis_TFIDF_LogisticRegression_with_Visualization.ipynb
+├── 📁 Image_Classification/
+│   └── CNN_Image_Classifier.ipynb
 ├── 📁 Recommendation_System/
-│   └──Recommendation_System_SVD.ipynb
-
+│   └── Recommendation_System_SVD.ipynb
 ```
 
 ---
